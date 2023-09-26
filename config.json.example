@@ -1,0 +1,15 @@
+{
+	"private": {
+		"token": "",
+		"shazamKey": ""
+	},
+	"webHooks": {
+		"feedback": "https://discord.com/api/webhooks/",
+		"error": "https://discord.com/api/webhooks/",
+		"event": "https://discord.com/api/webhooks/"
+	},
+	"deleteSlashCommand": false,
+	"debug": false,
+	"clientId": "",
+	"guildId": ""
+}
